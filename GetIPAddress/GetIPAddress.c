@@ -76,7 +76,7 @@
 
 /*****************************************************************************/
 
-STRPTR VERSTAG = "$VER: GetIPAddress 1.0 (16.5.2021) Philippe CARPENTIER";
+STRPTR VERSTAG = "$VER: GetIPAddress 1.1 (28.10.2026) Philippe CARPENTIER";
 
 #ifdef __SASC
 extern struct Library  *DOSBase;
